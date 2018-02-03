@@ -1,0 +1,70 @@
+body {
+	margin:0;
+	padding:0;
+}
+#Holder {
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+#Header {
+	height:90px;
+	background-image:url(../Assets/customLogo.jpg);
+	background-repeat:no-repeat;
+	margin-bottom:11px;
+	
+}
+#Navbar {
+	height:60px;
+	background-color:#000000;
+	
+}
+#Content {
+	height:auto;
+	clear:both;
+	overflow:auto;
+}
+#PageHeading {
+	height:auto;
+	padding:11px;
+	
+}
+#ContentLeft {
+	width:280px;
+	height:auto;
+	float:left;
+	padding-left:11px;
+	padding-top:11px;
+	
+}
+#ContentRight {
+	width:680px;
+	height:auto;
+	float:right;
+		
+}
+#Footer {
+	height:100px;
+}
+h1 {
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	font-weight: lighter;
+}
+h2 {
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	font-weight:lighter;
+}
+.SytleTxtField {
+	border:1px solid #090;
+	border-radius:6px;
+	width:200px;
+	height:35px;
+	
+}
